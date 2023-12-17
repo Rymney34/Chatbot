@@ -1,0 +1,5 @@
+#text1 {
+    -fx-fill: blue; /* Set text color to blue */
+    -fx-font-size: 18px; /* Set font size */
+    /* Add more styles as needed */
+}
